@@ -60,6 +60,28 @@
   --vp-c-bg: #1b1b1f;
 }
 
+/* Ajusta o tamanho da logo no Header */
+.VPNavBarTitle .logo {
+  margin-top: 12px;
+  height: 120px; /* Ajuste esse valor conforme sua preferência */
+  width: auto;  /* Mantém a proporção */
+  margin-right: 20px; /* Espaço entre a logo e o texto METIS */
+  transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), margin 0.3s ease;
+  backface-visibility: hidden;
+  will-change: transform;
+}
+.VPNavBarTitle .logo:hover {
+  margin-right: 8px; /* Espaço entre a logo e o texto METIS */
+  transform: scale(1.15);
+}
+
+/* Opcional: Ajuste para telas menores (Mobile) */
+@media (max-width: 768px) {
+  .VPNavBarTitle .logo {
+    height: 32px;
+  }
+}
+
 /**
  * Component: Button
  * -------------------------------------------------------------------------- */
