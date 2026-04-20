@@ -5,7 +5,7 @@ export default {
   title: "METIS Framework",
   description: "Framework de gestão adaptativa",
   head: [
-      ['link', { rel: 'icon', href: '/metis.ico' }]
+      ['link', { rel: 'icon', href: '/metis-logo.svg' }]
     ],
   themeConfig: {
     logo: '/metis-logo.svg',

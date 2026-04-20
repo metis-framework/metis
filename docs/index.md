@@ -10,8 +10,8 @@ hero:
     alt: METIS Logo
   actions:
     - theme: brand
-      text: Começar pelo AFS
-      link: /afs/
+      text: Iniciar
+      link: /inicio/
     - theme: alt
       text: Ver no GitHub
       link: https://github.com/metis-framework
