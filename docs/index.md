@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Iniciar
-      link: /inicio/
+      link: /metis/
     - theme: alt
       text: Ver no GitHub
       link: https://github.com/metis-framework

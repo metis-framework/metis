@@ -5,34 +5,37 @@ export default {
   title: "METIS Framework",
   description: "Framework de gestão adaptativa",
   head: [
-      ['link', { rel: 'icon', href: '/metis-logo.svg' }]
+      ['link', { rel: 'icon', href: '/metis-icon.svg' }]
     ],
   themeConfig: {
     logo: '/metis-logo.svg',
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Metis', link: '/metis/' },
       { text: 'Metodologias', items: [
         { text: 'Adaptive Flow System (AFS)', link: '/afs/' },
         { text: 'Priority Response Protocol (PRP)', link: '/prp/' }
       ]}
     ],
     sidebar: {
-      '/afs/': [
+      '/metis/': [
         {
-          text: 'Adaptive Flow System',
+          text: 'METIS',
           items: [
-            { text: 'Introdução', link: '/afs/' },
-            { text: 'Fluxo Detalhado', link: '/afs/fluxo' },
-            { text: 'Papéis', link: '/afs/papeis' }
+            { text: 'Visão Geral', link: '/metis/' },
+            { text: 'Princípios', link: '/metis/principios' },
+            { text: 'Estrutura', link: '/metis/estrutura' }
           ]
         }
       ],
-      '/prp/': [
+
+      '/metodologias/afs/': [
         {
-          text: 'Priority Response Protocol',
+          text: 'AFS',
           items: [
-            { text: 'O que é o PRP?', link: '/prp/' },
-            { text: 'Gestão de Crises', link: '/prp/crises' }
+            { text: 'Visão Geral', link: '/metodologias/afs/' },
+            { text: 'Fluxo', link: '/metodologias/afs/fluxo' },
+            { text: 'Papéis', link: '/metodologias/afs/papeis' }
           ]
         }
       ]
