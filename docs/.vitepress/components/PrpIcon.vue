@@ -8,23 +8,23 @@
   >
     <defs>
       <linearGradient id="prp-tri-main" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#7f8fa1" />
-        <stop offset="100%" stop-color="var(--vp-c-brand-1)" />
+        <stop offset="0%" stop-color="#7a8089" />
+        <stop offset="100%" stop-color="#1e272e" />
       </linearGradient>
 
       <linearGradient id="prp-tri-left" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#91a4b8" />
-        <stop offset="100%" stop-color="var(--vp-c-brand-2)" />
+        <stop offset="0%" stop-color="#7a8089" />
+        <stop offset="100%" stop-color="#383f46" />
       </linearGradient>
 
       <linearGradient id="prp-tri-right" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="var(--vp-c-brand-2)" />
-        <stop offset="100%" stop-color="#2c3136" />
+        <stop offset="0%" stop-color="#383f46" />
+        <stop offset="100%" stop-color="#1b242b" />
       </linearGradient>
 
       <linearGradient id="prp-tri-bottom" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#24303b" />
-        <stop offset="100%" stop-color="#161b20" />
+        <stop offset="0%" stop-color="#1e272e" />
+        <stop offset="100%" stop-color="#1b242b" />
       </linearGradient>
 
       <filter id="prp-shadow" x="-20%" y="-20%" width="150%" height="150%">
@@ -37,7 +37,7 @@
       <polygon
         points="50,10 88,78 12,78"
         fill="url(#prp-tri-main)"
-        stroke="var(--vp-c-brand-1)"
+        stroke="#1e272e"
         stroke-width="2.5"
         stroke-linejoin="round"
       />

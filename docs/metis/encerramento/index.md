@@ -63,8 +63,8 @@ O resultado não é um processo perfeito, mas um sistema mais estável, adaptáv
 
 Agora que você entende a lógica do METIS, o próximo passo é conhecer como o fluxo contínuo é estruturado na prática.
 
-👉 O AFS é a metodologia responsável por sustentar o funcionamento diário do sistema.
+O AFS é a metodologia responsável por sustentar o funcionamento diário do sistema.
 
 ---
 
-➡️ [Conhecer o AFS](/metodologias/afs/)
+[Conhecer o AFS](/metodologias/afs/)

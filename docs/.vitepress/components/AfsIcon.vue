@@ -9,9 +9,9 @@
     <defs>
       <!-- Gradiente da esfera -->
       <radialGradient id="afs-sphere" cx="35%" cy="30%" r="70%">
-        <stop offset="0%" stop-color="var(--vp-c-brand-2)" />
-        <stop offset="45%" stop-color="var(--vp-c-brand-3)" />
-        <stop offset="100%" stop-color="var(--vp-c-brand-1)" />
+        <stop offset="0%" stop-color="#7a8089" />
+        <stop offset="45%" stop-color="#383f46" />
+        <stop offset="100%" stop-color="#1e272e" />
       </radialGradient>
 
       <!-- Sombra -->
@@ -27,7 +27,7 @@
         cy="50"
         r="32"
         fill="url(#afs-sphere)"
-        stroke="var(--vp-c-brand-1)"
+        stroke="#1e272e"
         stroke-width="2"
       />
 
@@ -36,8 +36,8 @@
         cx="38"
         cy="34"
         r="6"
-        fill="#fff"
-        opacity="0.15"
+        fill="#7a8089"
+        opacity="0.28"
       />
 
       <!-- anel de fluxo (isso muda tudo) -->
@@ -45,7 +45,7 @@
         d="M50 8
            A42 42 0 0 1 90 50"
         fill="none"
-        stroke="var(--vp-c-brand-2)"
+        stroke="#383f46"
         stroke-width="3"
         stroke-linecap="round"
         opacity="0.7"
@@ -54,7 +54,7 @@
       <!-- seta do fluxo -->
       <path
         d="M90 50 L82 46 L82 54 Z"
-        fill="var(--vp-c-brand-2)"
+        fill="#383f46"
       />
     </g>
   </svg>

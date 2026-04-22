@@ -33,17 +33,17 @@ O METIS organiza a gestão através de **módulos com funções específicas**, 
 
 Hoje, o framework é composto por dois principais componentes:
 
-### 🔶 AFS — Adaptive Flow System  
+### AFS — Adaptive Flow System  
 Metodologia focada em **organização do fluxo de trabalho**, priorização contínua e adaptação ao contexto.
 
-👉 Atua no dia a dia operacional do time.
+Atua no dia a dia operacional do time.
 
 ---
 
-### 🔺 PRP — Priority Response Protocol  
+### PRP — Priority Response Protocol  
 Protocolo voltado para **tomada de decisão em cenários de pressão, incerteza ou crise**.
 
-👉 Atua quando o fluxo precisa ser interrompido ou redirecionado com rapidez.
+Atua quando o fluxo precisa ser interrompido ou redirecionado com rapidez.
 
 ---
 

@@ -8,23 +8,23 @@
   >
     <defs>
       <linearGradient id="metis-hex-main" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="var(--vp-c-brand-3)" />
-        <stop offset="100%" stop-color="var(--vp-c-brand-1)" />
+        <stop offset="0%" stop-color="#7a8089" />
+        <stop offset="100%" stop-color="#1e272e" />
       </linearGradient>
 
       <linearGradient id="metis-hex-top" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8ba0b5" />
-        <stop offset="100%" stop-color="var(--vp-c-brand-2)" />
+        <stop offset="0%" stop-color="#7a8089" />
+        <stop offset="100%" stop-color="#383f46" />
       </linearGradient>
 
       <linearGradient id="metis-hex-left" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#6b8299" />
-        <stop offset="100%" stop-color="var(--vp-c-brand-1)" />
+        <stop offset="0%" stop-color="#383f46" />
+        <stop offset="100%" stop-color="#1e272e" />
       </linearGradient>
 
       <linearGradient id="metis-hex-right" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="var(--vp-c-brand-2)" />
-        <stop offset="100%" stop-color="#2c3136" />
+        <stop offset="0%" stop-color="#383f46" />
+        <stop offset="100%" stop-color="#1b242b" />
       </linearGradient>
 
       <filter id="metis-shadow" x="-20%" y="-20%" width="140%" height="140%">
@@ -37,7 +37,7 @@
       <polygon
         points="50,6 86,28 86,72 50,94 14,72 14,28"
         fill="url(#metis-hex-main)"
-        stroke="var(--vp-c-brand-1)"
+        stroke="#1e272e"
         stroke-width="2.5"
       />
 
