@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default {
   title: "METIS Framework",
   description: "Framework de gestão adaptativa",
+  cleanUrls: true,
   head: [
       ['link', { rel: 'icon', href: '/metis-icon.svg' }]
     ],
@@ -23,8 +24,10 @@ export default {
           text: 'METIS',
           items: [
             { text: 'Visão Geral', link: '/metis/' },
-            { text: 'Princípios', link: '/metis/principios' },
-            { text: 'Estrutura', link: '/metis/estrutura' }
+            { text: 'Princípios', link: '/metis/principios/' },
+            { text: 'Estrutura', link: '/metis/estrutura/' },
+            { text: 'Como Aplicar', link: '/metis/como-aplicar/' },
+            { text: 'Encerramento', link: '/metis/encerramento/' }
           ]
         }
       ],
@@ -34,11 +37,18 @@ export default {
           text: 'AFS',
           items: [
             { text: 'Visão Geral', link: '/metodologias/afs/' },
-            { text: 'Fluxo', link: '/metodologias/afs/fluxo' },
-            { text: 'Papéis', link: '/metodologias/afs/papeis' }
+            { text: 'Fluxo', link: '/metodologias/afs/fluxo/' },
+            { text: 'Papéis', link: '/metodologias/afs/papeis/' }
           ]
         }
       ]
+    },
+    outline: {
+      label: 'Nesta página'
+    },
+    docFooter: {
+      prev: 'Página anterior',
+      next: 'Próxima página'
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/metis-framework' }

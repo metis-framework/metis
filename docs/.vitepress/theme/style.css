@@ -69,6 +69,26 @@ svg:hover {
   filter: brightness(1.1);
 }
 
+.symbol-icon {
+  cursor: pointer;
+  transform-origin: center center;
+  transition: filter 0.3s ease;
+}
+
+.symbol-icon:hover {
+  animation: metisWobble 0.9s ease-in-out;
+  filter: brightness(1.06);
+}
+
+@keyframes metisWobble {
+  0%   { transform: rotate(0deg) scale(1); }
+  20%  { transform: rotate(6deg) scale(1.03); }
+  40%  { transform: rotate(-5deg) scale(1.03); }
+  60%  { transform: rotate(3deg) scale(1.02); }
+  80%  { transform: rotate(-2deg) scale(1.01); }
+  100% { transform: rotate(0deg) scale(1); }
+}
+
 /*Ajustes no header*/
 .VPNav {
   height: 80px !important;

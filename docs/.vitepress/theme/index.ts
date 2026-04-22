@@ -6,6 +6,8 @@ import './style.css'
 import MetisIcon from '../components/MetisIcon.vue'
 import AfsIcon from '../components/AfsIcon.vue'
 import PrpIcon from '../components/PrpIcon.vue'
+import SymbolCard from '../components/SymbolCard.vue'
+import MetisDiagram from '../components/MetisDiagram.vue'
 
 export default {
   extends: DefaultTheme,
@@ -18,5 +20,7 @@ export default {
     app.component('MetisIcon', MetisIcon)
     app.component('AfsIcon', AfsIcon)
     app.component('PrpIcon', PrpIcon)
+    app.component('SymbolCard', SymbolCard)
+    app.component('MetisDiagram', MetisDiagram)
   }
 } satisfies Theme
