@@ -14,8 +14,8 @@ export default {
       { text: 'Home', link: '/' },
       { text: 'Metis', link: '/metis/' },
       { text: 'Metodologias', items: [
-        { text: 'Adaptive Flow System (AFS)', link: '/afs/' },
-        { text: 'Priority Response Protocol (PRP)', link: '/prp/' }
+        { text: 'Adaptive Flow System (AFS)', link: '/metodologias/afs/' },
+        { text: 'Priority Response Protocol (PRP)', link: '/metodologias/prp/' }
       ]}
     ],
     sidebar: {
@@ -37,8 +37,11 @@ export default {
           text: 'AFS',
           items: [
             { text: 'Visão Geral', link: '/metodologias/afs/' },
+            { text: 'Estrutura', link: '/metodologias/afs/estrutura/' },
             { text: 'Fluxo', link: '/metodologias/afs/fluxo/' },
-            { text: 'Papéis', link: '/metodologias/afs/papeis/' }
+            { text: 'Papéis', link: '/metodologias/afs/papeis/' },
+            { text: 'Métricas', link: '/metodologias/afs/metricas/' },
+            { text: 'Ciclos', link: '/metodologias/afs/ciclos/' }
           ]
         }
       ]

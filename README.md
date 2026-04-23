@@ -1,12 +1,12 @@
-# 🏛️ METIS Framework
+# METIS Framework
 
-> **The Wisdom of Adaptation for Small Teams & Support Squads.**
+> **Inteligência Adaptativa para pequenas e médias equipes.**
 
 O **METIS** é um framework de gestão adaptativa projetado especificamente para equipes pequenas e times de sustentação que operam em cenários de alta imprevisibilidade. Inspirado na sabedoria prática e na astúcia da deusa grega Metis, este framework oferece ferramentas modulares para transformar o caos operacional em um fluxo de trabalho sustentável e eficiente.
 
 ---
 
-## 🚀 Por que o METIS?
+## Por que o METIS?
 
 Muitas equipes tentam forçar metodologias rígidas como o Scrum em contextos onde as demandas não são previsíveis. O METIS resolve isso oferecendo uma abordagem "Documentation-First" e orientada a fluxo, focada em:
 
@@ -16,23 +16,23 @@ Muitas equipes tentam forçar metodologias rígidas como o Scrum em contextos on
 
 ---
 
-## 🛠️ Metodologias Core
+## Metodologias Core
 
 O framework é composto por módulos independentes que podem ser combinados conforme a necessidade do time:
 
-### 🔄 Adaptive Flow System (AFS)
+### Adaptive Flow System (AFS)
 Focado no desenvolvimento contínuo e na organização de múltiplos contextos simultâneos.
 - **Destaque:** Separação de trabalho por *Tracks* e validação distinta entre Técnico (Done) e Negócio (Closed).
-- [Ver Documentação do AFS](./docs/afs/index.md)
+- [Ver Documentação do AFS](./docs/metodologias/afs/index.md)
 
-### 🚨 Priority Response Protocol (PRP)
+### Priority Response Protocol (PRP)
 Um protocolo de ação rápida para gerenciar crises, bugs críticos e demandas "atropelantes".
 - **Destaque:** Alocação dinâmica de recursos e ritos de resolução acelerada.
-- [Ver Documentação do PRP](./docs/prp/index.md)
+- [Ver Documentação do PRP](./docs/metodologias/prp/index.md)
 
 ---
 
-## 🌐 Documentação
+## Documentação
 
 Nossa documentação oficial é construída com **VitePress** e pode ser rodada localmente:
 
