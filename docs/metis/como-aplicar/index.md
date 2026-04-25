@@ -8,18 +8,18 @@ A aplicação do framework acontece através de leitura de contexto e escolha co
 
 ---
 
-## 1. Comece pelo fluxo
+## 1. Comece pelo ponto de entrada adequado
 
-O primeiro passo ao aplicar o METIS é estruturar o trabalho em fluxo contínuo.
+O primeiro passo ao aplicar o METIS é entender em que momento a equipe está e escolher o ponto de entrada mais adequado.
 
 O objetivo aqui não é controlar tudo, mas **dar visibilidade e direção ao que está acontecendo**.
 
-- Organize as atividades em andamento  
-- Defina prioridades claras  
-- Evite sobrecarga de tarefas simultâneas  
-- Mantenha o trabalho em movimento  
+- Identifique se já existe um fluxo minimamente funcional  
+- Observe se o cenário exige estabilização antes da execução  
+- Escolha a abordagem compatível com a maturidade da equipe  
+- Evite forçar um ponto de partida único para todos os contextos  
 
-Neste momento, o foco é estabilidade e continuidade.
+Neste momento, o foco é começar pelo caminho que melhor sustenta a operação.
 
 ---
 
@@ -27,7 +27,7 @@ Neste momento, o foco é estabilidade e continuidade.
 
 O METIS depende de leitura ativa do cenário.
 
-Enquanto o fluxo acontece, é necessário observar:
+Enquanto o sistema está em funcionamento, é necessário observar:
 
 - Mudanças de prioridade  
 - Bloqueios críticos  
@@ -44,7 +44,7 @@ Nem todo problema exige mudança de abordagem.
 
 O METIS propõe um ponto de atenção:
 
-> Quando o fluxo deixa de ser suficiente para sustentar o trabalho, é hora de intervir.
+> Quando a abordagem atual deixa de ser suficiente para sustentar o trabalho, é hora de intervir.
 
 Sinais comuns:
 
@@ -59,7 +59,7 @@ Aqui começa a transição de contexto.
 
 ## 4. Interrompa com intenção (quando necessário)
 
-Quando identificado o momento crítico, o fluxo pode ser interrompido.
+Quando identificado o momento crítico, o funcionamento normal pode ser interrompido ou redirecionado.
 
 Mas não de forma caótica.
 
@@ -82,11 +82,11 @@ Durante a interrupção, o objetivo é reduzir complexidade e agir com clareza.
 - Centralize decisões  
 - Alinhe o time em torno de um objetivo único  
 
-Aqui, o sistema sai do modo “fluxo” e entra no modo “resposta”.
+Aqui, o sistema sai do modo estável e entra no modo de resposta.
 
 ---
 
-## 6. Retorne ao fluxo
+## 6. Retorne à estabilidade
 
 Após estabilizar o cenário, o sistema deve voltar ao estado normal.
 
@@ -94,7 +94,7 @@ Após estabilizar o cenário, o sistema deve voltar ao estado normal.
 - Redistribua prioridades  
 - Retome o ritmo contínuo  
 
-O METIS não mantém o sistema em modo de crise — ele **restaura o fluxo**.
+O METIS não mantém o sistema em modo de crise — ele **restaura um modo estável de operação**.
 
 ---
 
@@ -102,7 +102,7 @@ O METIS não mantém o sistema em modo de crise — ele **restaura o fluxo**.
 
 A aplicação do METIS pode ser entendida como um ciclo simples:
 
-- Fluxo contínuo → organização e execução  
+- Ponto de entrada adequado → organização e execução  
 - Mudança de contexto → necessidade de decisão  
 - Interrupção → foco e resposta  
 - Retorno → continuidade e estabilidade  
@@ -143,7 +143,8 @@ O ponto central não é o tipo de time, mas a **dinâmica do trabalho**.
 
 Aplicar o METIS é:
 
-- Manter o fluxo sempre que possível  
+- Escolher o ponto de entrada adequado  
+- Manter a operação estável sempre que possível  
 - Intervir quando necessário  
 - Tomar decisões com clareza  
 - Retornar à estabilidade após a resposta  

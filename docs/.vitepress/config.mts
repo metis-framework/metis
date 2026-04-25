@@ -13,10 +13,10 @@ export default {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Metis', link: '/metis/' },
-      { text: 'Operação', link: '/operacao/' },
-      { text: 'Metodologias', items: [
-        { text: 'Adaptive Flow System (AFS)', link: '/metodologias/afs/' },
-        { text: 'Priority Response Protocol (PRP)', link: '/metodologias/prp/' }
+      { text: 'Implementação', link: '/implementacao/' },
+      { text: 'Componentes', items: [
+        { text: 'Adaptive Flow System (AFS)', link: '/componentes/afs/' },
+        { text: 'Priority Response Protocol (PRP)', link: '/componentes/prp/' }
       ]}
     ],
     sidebar: {
@@ -32,41 +32,41 @@ export default {
           ]
         }
       ],
-      '/operacao/': [
+      '/implementacao/': [
         {
-          text: 'Operação',
+          text: 'Implementação',
           items: [
-            { text: 'Visão Geral', link: '/operacao/' }
+            { text: 'Visão Geral', link: '/implementacao/' }
           ]
         }
       ],
 
-      '/metodologias/afs/': [
+      '/componentes/afs/': [
         {
           text: 'AFS',
           items: [
-            { text: 'Visão Geral', link: '/metodologias/afs/' },
-            { text: 'Estrutura', link: '/metodologias/afs/estrutura/' },
-            { text: 'Fluxo', link: '/metodologias/afs/fluxo/' },
-            { text: 'Papéis', link: '/metodologias/afs/papeis/' },
-            { text: 'Métricas', link: '/metodologias/afs/metricas/' },
-            { text: 'Ciclos', link: '/metodologias/afs/ciclos/' }
+            { text: 'Visão Geral', link: '/componentes/afs/' },
+            { text: 'Estrutura', link: '/componentes/afs/estrutura/' },
+            { text: 'Fluxo', link: '/componentes/afs/fluxo/' },
+            { text: 'Papéis', link: '/componentes/afs/papeis/' },
+            { text: 'Métricas', link: '/componentes/afs/metricas/' },
+            { text: 'Ciclos', link: '/componentes/afs/ciclos/' }
           ]
         }
       ],
 
-      '/metodologias/prp/': [
+      '/componentes/prp/': [
         {
           text: 'PRP',
           items: [
-            { text: 'Visão Geral', link: '/metodologias/prp/' },
-            { text: 'Entrada', link: '/metodologias/prp/entrada/' },
-            { text: 'Níveis', link: '/metodologias/prp/niveis/' },
-            { text: 'Fluxo', link: '/metodologias/prp/fluxo/' },
-            { text: 'Capacidade', link: '/metodologias/prp/capacidade/' },
-            { text: 'Escopo', link: '/metodologias/prp/escopo/' },
-            { text: 'Bloqueios', link: '/metodologias/prp/bloqueios/' },
-            { text: 'Métricas', link: '/metodologias/prp/metricas/' }
+            { text: 'Visão Geral', link: '/componentes/prp/' },
+            { text: 'Entrada', link: '/componentes/prp/entrada/' },
+            { text: 'Níveis', link: '/componentes/prp/niveis/' },
+            { text: 'Fluxo', link: '/componentes/prp/fluxo/' },
+            { text: 'Capacidade', link: '/componentes/prp/capacidade/' },
+            { text: 'Escopo', link: '/componentes/prp/escopo/' },
+            { text: 'Bloqueios', link: '/componentes/prp/bloqueios/' },
+            { text: 'Métricas', link: '/componentes/prp/metricas/' }
           ]
         }
       ]

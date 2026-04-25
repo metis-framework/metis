@@ -1,6 +1,6 @@
 # Visão do METIS
 
-O METIS não é apenas um conjunto de conceitos ou metodologias isoladas.
+O METIS não é apenas um conjunto de conceitos ou componentes isolados.
 
 Ele é um sistema de organização da gestão, criado para lidar com cenários reais, onde o contexto muda, a pressão aparece e decisões precisam ser tomadas com clareza.
 
@@ -14,7 +14,7 @@ Dentro do framework, cada componente possui uma função específica:
 - O **PRP** atua em momentos de pressão, incerteza ou crise  
 - O **METIS** define como e quando cada abordagem deve ser utilizada  
 
-O objetivo não é escolher uma metodologia, mas entender qual abordagem faz sentido em cada momento.
+O objetivo não é escolher um componente de forma isolada, mas entender qual abordagem faz sentido em cada momento.
 
 ---
 
@@ -24,11 +24,11 @@ O objetivo não é escolher uma metodologia, mas entender qual abordagem faz sen
 
 O funcionamento do METIS pode ser entendido como um ciclo:
 
-- O trabalho começa em fluxo contínuo  
+- A equipe parte do ponto de entrada mais adequado ao seu contexto  
 - O contexto muda  
 - Uma resposta estruturada é necessária  
 - O sistema se reorganiza  
-- O fluxo é retomado  
+- A operação volta a um estado estável  
 
 Esse ciclo pode acontecer diversas vezes ao longo de um projeto ou operação.
 
@@ -61,10 +61,10 @@ O resultado não é um processo perfeito, mas um sistema mais estável, adaptáv
 
 ## Próximo passo
 
-Agora que você entende a lógica do METIS, o próximo passo é conhecer como o fluxo contínuo é estruturado na prática.
+Agora que você entende a lógica do METIS, o próximo passo é identificar qual ponto de entrada faz mais sentido para a realidade da sua equipe.
 
-O AFS é a metodologia responsável por sustentar o funcionamento diário do sistema.
+A implementação do METIS depende do nível de organização atual do time e do tipo de problema que precisa ser resolvido primeiro.
 
 ---
 
-[Conhecer o AFS](/metodologias/afs/)
+[Ver Implementação](/implementacao/)

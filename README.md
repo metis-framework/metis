@@ -16,19 +16,28 @@ Muitas equipes tentam forçar metodologias rígidas como o Scrum em contextos on
 
 ---
 
-## Metodologias Core
+## Componentes do Framework
 
 O framework é composto por módulos independentes que podem ser combinados conforme a necessidade do time:
 
 ### Adaptive Flow System (AFS)
 Focado no desenvolvimento contínuo e na organização de múltiplos contextos simultâneos.
 - **Destaque:** Separação de trabalho por *Tracks* e validação distinta entre Técnico (Done) e Negócio (Closed).
-- [Ver Documentação do AFS](./docs/metodologias/afs/index.md)
+- [Ver Documentação do AFS](./docs/componentes/afs/index.md)
 
 ### Priority Response Protocol (PRP)
 Um protocolo de ação rápida para gerenciar crises, bugs críticos e demandas "atropelantes".
 - **Destaque:** Alocação dinâmica de recursos e ritos de resolução acelerada.
-- [Ver Documentação do PRP](./docs/metodologias/prp/index.md)
+- [Ver Documentação do PRP](./docs/componentes/prp/index.md)
+
+## Implementação
+
+A adoção do METIS depende do momento da equipe:
+
+- equipes com fluxo minimamente funcional podem começar diretamente pelo AFS
+- equipes em caos operacional podem começar pelo PRP e, após estabilização, migrar para o AFS
+
+- [Ver Guia de Implementação](./docs/implementacao/index.md)
 
 ---
 
@@ -36,9 +45,9 @@ Um protocolo de ação rápida para gerenciar crises, bugs críticos e demandas 
 
 Nossa documentação oficial é construída com **VitePress** e pode ser rodada localmente:
 
-```bash ```
+```bash
 # Clone o repositório
-git clone [https://github.com/metis-framework/metis.git](https://github.com/metis-framework/metis.git)
+git clone https://github.com/metis-framework/metis.git
 
 # Entre na pasta da documentação
 cd docs
@@ -48,3 +57,4 @@ npm install
 
 # Rode o servidor de desenvolvimento
 npm run docs:dev
+```

@@ -81,13 +81,11 @@ Nem toda demanda classificada será executada imediatamente.
 
 ## Execução
 
-Após passar pelo PRP, a demanda entra no fluxo operacional.
+Após passar pelo PRP, a demanda entra no fluxo operacional adotado pela equipe.
 
-A partir desse ponto, o trabalho segue o AFS:
+A partir desse ponto, o trabalho segue o modelo de execução já definido para a operação.
 
-`Backlog -> To Do -> In Progress -> Code Review -> QA -> Done -> Stakeholder Review -> Closed`
-
-O PRP não substitui o AFS, ele prepara a demanda para que o fluxo funcione corretamente.
+O PRP não substitui a execução, ele prepara a demanda para que o trabalho aconteça com clareza de prioridade e contexto.
 
 ---
 

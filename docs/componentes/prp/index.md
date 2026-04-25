@@ -7,7 +7,7 @@
   text="O núcleo representa o papel do PRP dentro do METIS: centralizar a tomada de decisão sobre prioridades. As camadas ao redor simbolizam o filtro, a validação e a proteção do fluxo de trabalho, garantindo que o time não reaja ao caos, mas opere com critério, clareza e controle mesmo em ambientes de alta pressão."
 />
 
-O **Priority Response Protocol (PRP)** é a metodologia do METIS voltada para organizar a priorização de demandas em ambientes com alta imprevisibilidade, múltiplas fontes de solicitação e pressão constante por urgência.
+O **Priority Response Protocol (PRP)** é o protocolo do METIS voltado para organizar a priorização de demandas em ambientes com alta imprevisibilidade, múltiplas fontes de solicitação e pressão constante por urgência.
 
 Diferente de abordagens tradicionais, o PRP não assume que o trabalho é previsível. Seu foco está em criar um sistema de decisão que permita ao time lidar com o caos de forma estruturada, protegendo a execução e reduzindo desperdícios.
 
@@ -24,7 +24,7 @@ Equipes que atuam com sustentação, marketing ou operações digitais frequente
 - interrupções frequentes que quebram o fluxo de trabalho
 - baixa previsibilidade e dificuldade de planejamento
 
-Mesmo com organização de board, labels e fluxo operacional bem definidos, como no AFS, a ausência de um sistema claro de priorização compromete toda a operação.
+Mesmo com organização de board, labels e algum fluxo operacional já estabelecido, a ausência de um sistema claro de priorização compromete toda a operação.
 
 Foi desse cenário que surgiu a necessidade de uma camada específica para controle de prioridades.
 
@@ -74,7 +74,7 @@ Dentro do framework, o PRP atua como a camada de decisão que sustenta o fluxo o
 - reduz desperdício de esforço
 - organiza o caos sem bloquear a operação
 
-Enquanto o AFS organiza *como* o trabalho acontece, o PRP define *o que* realmente deve ser feito.
+Dentro do PRP, o foco está em definir o que realmente deve ser feito antes que a execução comece.
 
 ---
 

@@ -24,7 +24,7 @@ Características:
 
 - alta prioridade
 - resposta rápida
-- pode interromper outras demandas
+- pode assumir prioridade máxima dentro do fluxo
 
 ---
 

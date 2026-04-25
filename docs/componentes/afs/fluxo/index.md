@@ -25,7 +25,7 @@ Cada etapa possui um papel específico dentro do sistema e regras claras de tran
 
 ### Descrição
 
-O `Backlog` é o ponto de entrada de todas as demandas.
+O `Backlog` é o ponto de entrada das demandas que serão tratadas dentro do fluxo do AFS.
 
 ### Objetivo
 
@@ -33,7 +33,7 @@ Centralizar e registrar todas as tarefas antes de entrarem no fluxo ativo.
 
 ### Boas práticas
 
-- todas as demandas devem ser registradas aqui
+- todas as demandas tratadas pelo AFS devem ser registradas aqui
 - tasks devem conter descrição mínima clara
 - sempre que possível, já classificar por track
 

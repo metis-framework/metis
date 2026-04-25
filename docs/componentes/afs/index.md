@@ -62,7 +62,7 @@ Alguns pontos importantes:
 
 ## O papel do AFS dentro do METIS
 
-Dentro do framework, o AFS sustenta o fluxo operacional do dia a dia.
+Dentro do framework, o AFS sustenta o fluxo operacional do dia a dia quando a equipe já possui um modelo minimamente funcional de execução.
 
 - organiza a execução contínua
 - melhora a leitura de contexto

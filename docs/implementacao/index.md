@@ -1,4 +1,4 @@
-# Operação
+# Implementação
 
 O METIS pode ser aplicado de formas diferentes, dependendo do nível de organização da equipe.
 
