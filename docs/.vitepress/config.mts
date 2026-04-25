@@ -13,6 +13,7 @@ export default {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Metis', link: '/metis/' },
+      { text: 'Operação', link: '/operacao/' },
       { text: 'Metodologias', items: [
         { text: 'Adaptive Flow System (AFS)', link: '/metodologias/afs/' },
         { text: 'Priority Response Protocol (PRP)', link: '/metodologias/prp/' }
@@ -31,6 +32,14 @@ export default {
           ]
         }
       ],
+      '/operacao/': [
+        {
+          text: 'Operação',
+          items: [
+            { text: 'Visão Geral', link: '/operacao/' }
+          ]
+        }
+      ],
 
       '/metodologias/afs/': [
         {
@@ -42,6 +51,22 @@ export default {
             { text: 'Papéis', link: '/metodologias/afs/papeis/' },
             { text: 'Métricas', link: '/metodologias/afs/metricas/' },
             { text: 'Ciclos', link: '/metodologias/afs/ciclos/' }
+          ]
+        }
+      ],
+
+      '/metodologias/prp/': [
+        {
+          text: 'PRP',
+          items: [
+            { text: 'Visão Geral', link: '/metodologias/prp/' },
+            { text: 'Entrada', link: '/metodologias/prp/entrada/' },
+            { text: 'Níveis', link: '/metodologias/prp/niveis/' },
+            { text: 'Fluxo', link: '/metodologias/prp/fluxo/' },
+            { text: 'Capacidade', link: '/metodologias/prp/capacidade/' },
+            { text: 'Escopo', link: '/metodologias/prp/escopo/' },
+            { text: 'Bloqueios', link: '/metodologias/prp/bloqueios/' },
+            { text: 'Métricas', link: '/metodologias/prp/metricas/' }
           ]
         }
       ]

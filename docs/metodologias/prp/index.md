@@ -13,7 +13,7 @@ Diferente de abordagens tradicionais, o PRP não assume que o trabalho é previs
 
 ---
 
-## Por que o PRP existe?
+## Origem
 
 Equipes que atuam com sustentação, marketing ou operações digitais frequentemente enfrentam um cenário como:
 
@@ -30,7 +30,7 @@ Foi desse cenário que surgiu a necessidade de uma camada específica para contr
 
 ---
 
-## Como o PRP resolve isso?
+## Solução
 
 O PRP propõe uma abordagem baseada em controle, validação e proteção do fluxo, através de:
 
@@ -46,7 +46,7 @@ Essa estrutura permite transformar um ambiente reativo em um sistema mais contro
 
 ---
 
-## Estrutura de decisão
+## Fluxo
 
 No PRP, nenhuma demanda entra diretamente no fluxo de execução.
 
@@ -65,7 +65,7 @@ Essa estrutura existe para evitar que decisões sejam tomadas de forma informal,
 
 ---
 
-## O papel do PRP dentro do METIS
+## Papel
 
 Dentro do framework, o PRP atua como a camada de decisão que sustenta o fluxo operacional.
 
@@ -78,7 +78,7 @@ Enquanto o AFS organiza *como* o trabalho acontece, o PRP define *o que* realmen
 
 ---
 
-## O que o PRP busca gerar
+## Objetivo
 
 O principal objetivo do PRP é permitir que equipes:
 

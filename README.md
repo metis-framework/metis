@@ -36,7 +36,7 @@ Um protocolo de ação rápida para gerenciar crises, bugs críticos e demandas 
 
 Nossa documentação oficial é construída com **VitePress** e pode ser rodada localmente:
 
-```bash
+```bash ```
 # Clone o repositório
 git clone [https://github.com/metis-framework/metis.git](https://github.com/metis-framework/metis.git)
 
