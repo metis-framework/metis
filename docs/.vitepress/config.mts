@@ -6,8 +6,17 @@ export default {
   description: "Framework de gestão adaptativa",
   cleanUrls: true,
   head: [
-      ['link', { rel: 'icon', href: '/metis-icon.svg' }]
-    ],
+    ['link', { rel: 'icon', href: '/metis-icon.svg' }],
+    ['meta', { name: 'google-adsense-account', content: 'ca-pub-5967689884232154' }],
+    [
+      'script',
+      {
+        async: '',
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5967689884232154',
+        crossorigin: 'anonymous'
+      }
+    ]
+  ],
   themeConfig: {
     logo: '/metis-logo.svg',
     nav: [
